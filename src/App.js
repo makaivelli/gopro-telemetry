@@ -12,7 +12,7 @@ class App extends Component {
         </header>
         <p className="App-intro">
             <video width="320" height="240" controls>
-                <source src="/videos/GOPR0036.MP4" type="video/mp4"/>
+                <source src="http://localhost:8080/video" type="video/mp4"/>
                     Your browser does not support the video tag.
             </video>
         </p>
